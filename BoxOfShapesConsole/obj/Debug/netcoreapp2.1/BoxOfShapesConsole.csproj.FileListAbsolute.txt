@@ -1,0 +1,70 @@
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.json
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CopyComplete
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CopyComplete
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CopyComplete
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CopyComplete
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.deps.json
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.json
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.runtimeconfig.dev.json
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.dll
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\bin\Debug\netcoreapp2.1\BoxOfShapes.pdb
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csprojAssemblyReference.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CoreCompileInputs.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfoInputs.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.AssemblyInfo.cs
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.csproj.CopyComplete
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.dll
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapesConsole\obj\Debug\netcoreapp2.1\BoxOfShapesConsole.pdb

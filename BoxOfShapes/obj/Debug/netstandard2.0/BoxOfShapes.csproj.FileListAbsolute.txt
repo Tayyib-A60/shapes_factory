@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.deps.json
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\user\Desktop\C# Udemy\Shapes - Copy - Copy - Copy\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.deps.json
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\bin\Debug\netstandard2.0\BoxOfShapes.pdb
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csprojAssemblyReference.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfoInputs.cache
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.AssemblyInfo.cs
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.dll
+C:\Users\ogunboyejo\Desktop\Shapes\BoxOfShapes\obj\Debug\netstandard2.0\BoxOfShapes.pdb
